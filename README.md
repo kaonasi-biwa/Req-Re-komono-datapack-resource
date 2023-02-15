@@ -25,7 +25,7 @@ https://kaonasi_biwa.gitlab.io/komono/item.html
   今は黄色ですが、白黒を基調にしたやつがいいなぁと思います
 #### Reverse Craft
 - Reverse Crafting Table / Furnace / Smithing Table / Cartography Table  
-  [biwa_block/r_crafting,r_furnace,re_smithing_table,re_cartography_table] 1\*1\*1  
+  [biwa_block/r_crafting, r_furnace, re_smithing_table, re_cartography_table] 1\*1\*1  
 - Reverse Stonecutter  
   [biwa_block/re_stonecutter] 1\*2\*1  
   クラフトとかしたやつをもとに戻すやつです  
@@ -60,5 +60,25 @@ https://kaonasi_biwa.gitlab.io/komono/item.html
   なんか...いい感じにお願いします...
 
 #### PocketPortal
+- ポケットネザーポータル / ポケットエンドポータル  
+  [biwa_item/nether, end] アイテムのみ
+  ネザー・エンドと右クリックで行き来できるアイテムです  
+  今のモデルより良さそうなものができるなら是非...
 #### Weapons
+- FlyBow  
+  [biwa_item/fly_bow] アイテムのみ  
+- TntBow  
+  [biwa_item/tnt_bow] アイテムのみ  
+- MultiBow  
+  [biwa_item/multi] アイテムのみ  
+- SuperMultiBow  
+  [biwa_item/multi2] アイテムのみ  
+  矢と一緒に飛べるやつ、TNt出るやつ、拡散付き、さらなる拡散付きです  
+  弓ベースみたいな感じだと良いなぁと思います
+
+- チャージソード  
+  木の剣を流用  
+  スニークで攻撃力貯めるやつです  
+  なんか良さそうなのがあればお願いします...  
 #### Industry
+更新予定
