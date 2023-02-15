@@ -1,0 +1,15 @@
+{
+	"parent": "minecraft:block/cube",
+	"textures": {
+		"north": "biwa_blocks/cartography_table_side3",
+		"south": "biwa_blocks/cartography_table_side1",
+		"east": "biwa_blocks/cartography_table_side3",
+		"west": "biwa_blocks/cartography_table_side2",
+
+		
+		
+		"up": "biwa_blocks/cartography_table_top",
+		"down": "biwa_blocks/dark_oak_planks",
+		"particle": "biwa_blocks/cartography_table_side1"
+	}
+}

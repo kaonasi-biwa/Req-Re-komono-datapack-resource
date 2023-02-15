@@ -1,0 +1,62 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/stick"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 60021
+      },
+      "model": "item/tripwire_hook"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61161
+      },
+      "model": "biwa_item/coal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61162
+      },
+      "model": "biwa_item/lapis"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61163
+      },
+      "model": "biwa_item/diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61164
+      },
+      "model": "biwa_item/emerald"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61165
+      },
+      "model": "biwa_item/redstone"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61166
+      },
+      "model": "biwa_item/copper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61167
+      },
+      "model": "biwa_item/ruby"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61168
+      },
+      "model": "biwa_item/copper_ingot"
+    }
+  ]
+}

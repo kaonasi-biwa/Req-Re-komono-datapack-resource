@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:biwa_block/bamboo_birch_chair",
+	"display": {
+		"head": {
+			"translation": [0, -30, 0],
+			"scale": [1.7, 1.7, 1.7]
+		}
+	}
+}

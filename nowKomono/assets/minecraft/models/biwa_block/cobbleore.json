@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/cube",
+	"textures": {
+		"north": "biwa_blocks/machine",
+		"south": "biwa_blocks/machine",
+		"west": "biwa_blocks/machine",
+		"east": "biwa_blocks/machine",
+		"up": "biwa_blocks/cobbleore",
+		"down": "biwa_blocks/cobbleore",
+		"particle": "biwa_blocks/machine"
+	}
+}

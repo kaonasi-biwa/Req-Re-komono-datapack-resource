@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/cube",
+	"textures": {
+		"north": "biwa_blocks/iron_pickaxe",
+		"south": "biwa_blocks/iron_pickaxe",
+		"west": "biwa_blocks/iron_pickaxe",
+		"east": "biwa_blocks/iron_pickaxe",
+		"up": "biwa_blocks/stone",
+		"down": "biwa_blocks/machine",
+		"particle": "biwa_blocks/machine"
+	}
+}

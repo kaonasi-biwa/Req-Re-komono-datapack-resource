@@ -1,0 +1,11 @@
+{
+	"parent": "biwa_block/nether_portal",
+	"display": {
+		
+		"fixed": {
+			"translation": [0, 0, 16],
+            "rotation": [ -90, 0, 0 ],
+            "scale": [ 2.1, 2.1, 2.1 ]
+		}
+	}
+}

@@ -1,0 +1,13 @@
+
+{
+	"parent": "minecraft:block/cube",
+	"textures": {
+		"north": "biwa_blocks/keys_block",
+		"south": "biwa_blocks/keys_block",
+		"west": "biwa_blocks/keys_block",
+		"east": "biwa_blocks/keys_block",
+		"up": "block/iron_block",
+		"down": "block/iron_block",
+		"particle": "block/iron_block"
+	}
+}

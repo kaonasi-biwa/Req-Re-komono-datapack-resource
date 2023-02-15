@@ -1,0 +1,29 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/black_dye"
+  },
+  "overrides": [
+   {
+      "predicate": {
+        "custom_model_data": 6116
+      },
+      "model": "biwa_item/gear"
+    },{
+      "predicate": {
+        "custom_model_data": 61162
+      },
+      "model": "biwa_item/gear2"
+    },{
+      "predicate": {
+        "custom_model_data": 61163
+      },
+      "model": "biwa_item/gear3"
+    },{
+      "predicate": {
+        "custom_model_data": 61164
+      },
+      "model": "biwa_item/gear4"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+	"parent": "minecraft:biwa_block/r_furnace",
+	"display": {
+		"head": {
+			"translation": [0, -31, 0],
+            "rotation": [ 0, 0, 0 ],
+            "scale": [ 1.7, 1.7, 1.7 ]
+		}
+	}
+}

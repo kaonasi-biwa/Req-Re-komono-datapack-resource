@@ -1,0 +1,67 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/armor_stand"
+  },
+  "overrides": [
+    {
+      "predicate":{
+        "custom_model_data": 61
+      },
+      "model": "biwa_item/beltconveyor"
+    },{
+      "predicate": {
+        "custom_model_data": 9002
+      },
+      "model": "biwa_item/keydoor"
+  },
+    {
+      "predicate": {
+        "custom_model_data": 60011
+      },
+      "model": "biwa_item/bamboo_oak_chair"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60012
+      },
+      "model": "biwa_item/bamboo_spruce_chair"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60013
+      },
+      "model": "biwa_item/bamboo_birch_chair"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60014
+      },
+      "model": "biwa_item/bamboo_jungle_chair"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60015
+      },
+      "model": "biwa_item/bamboo_acacia_chair"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60016
+      },
+      "model": "biwa_item/bamboo_dark_oak_chair"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60017
+      },
+      "model": "biwa_item/bamboo_crimson_chair"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 60018
+      },
+      "model": "biwa_item/bamboo_warped_chair"
+    }
+  ]
+}

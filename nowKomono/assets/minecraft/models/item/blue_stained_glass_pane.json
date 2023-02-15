@@ -1,0 +1,37 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:block/blue_stained_glass"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "custom_model_data": 222
+        },
+        "model": "biwa_item/hide"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 223
+        },
+        "model": "biwa_item/hidel"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 224
+        },
+        "model": "biwa_item/hider"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 225
+        },
+        "model": "biwa_item/hided"
+      },{
+        "predicate": {
+          "custom_model_data": 226
+        },
+        "model": "biwa_item/hideu"
+      }
+    ]
+  }

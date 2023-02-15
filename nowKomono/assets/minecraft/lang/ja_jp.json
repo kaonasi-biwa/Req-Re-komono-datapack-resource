@@ -1,0 +1,320 @@
+{
+    "kaonasi.komono.start.-1":"-------------------------------\n",
+    "kaonasi.komono.start.0":"このデータパックを導入していただきありがとうございます\n",
+    "kaonasi.komono.start.1":"データパックの内容\n",
+    "kaonasi.komono.start.craft":"Craft ",
+    "kaonasi.komono.start.craft.hover":"このデータパックのための作業台を追加します",
+    "kaonasi.komono.start.key_door":"KeyDoor ",
+    "kaonasi.komono.start.key_door.hover":"鍵付きのドアを追加します",
+    "kaonasi.komono.start.mask":"Mask ",
+    "kaonasi.komono.start.mask.hover":"マスクを追加します",
+    "kaonasi.komono.start.weapons":"Weapons\n",
+    "kaonasi.komono.start.weapons.hover":"いろんな武器を追加します",
+    "kaonasi.komono.start.pocket_portal":"PocketPortal ",
+    "kaonasi.komono.start.pocket_portal.hover":"ネザーやエンドに行くことができるアイテムを追加します",
+    "kaonasi.komono.start.reverse_craft":"ReverseCraft ",
+    "kaonasi.komono.start.reverse_craft.hover":"アイテムを材料に戻すことができるブロックを追加します",
+    "kaonasi.komono.start.industry":"Industry ",
+    "kaonasi.komono.start.industry.hover":"工業化のためのアイテムを追加します",
+    "kaonasi.komono.start.chair":"Chair ",
+    "kaonasi.komono.start.chair.hover":"椅子を追加します",
+    "kaonasi.komono.start.thanks.AiAkaishi":"赤石愛さんのMappin' Birthday!とOh! My Dat!を使わせていただきました。ありがとうございました。\n",
+    "kaonasi.komono.start.thanks.AiAkaishi.YouTube":"赤石愛さんのYouTube\n",
+    "kaonasi.komono.start.thanks.AiAkaishi.Twitter":"赤石愛さんのTwitter\n",
+    "kaonasi.komono.start.thanks.teto_cmd":"テトさんのProject StorageBoxのコードを参考にさせていただきました。ありがとうございました。\n",
+    "kaonasi.komono.start.thanks.teto_cmd.YouTube":"テトさんのYouTube\n",
+    "kaonasi.komono.start.thanks.teto_cmd.Twitter":"テトさんのTwitter\n",
+
+    "kaonasi.komono.craft.kaonasi_crafting_table.name": "KaonasiCraftingTable",
+    "kaonasi.komono.craft.kaonasi_crafting_table.id": "craft:kaonasi_crafting_table L",
+    "kaonasi.komono.craft.kaonasi_crafting_table.lore.1": "追加アイテム全てを作るための作業台",
+    "kaonasi.komono.craft.kaonasi_crafting_table.lore.2": "ここからすべてが始まる",
+
+
+    "kaonasi.komono.key_door.key_door.name": "鍵付きドア【鉄】",
+    "kaonasi.komono.key_door.key_door.id": "key_door:key_door L",
+    "kaonasi.komono.key_door.key_door.lore.1": "鍵を持っていないと開けることができないドア",
+    "kaonasi.komono.key_door.key_door.lore.2": "プライバシー保護に使える...と思う",
+
+    "kaonasi.komono.key_door.keys_block.name": "合鍵複製機",
+    "kaonasi.komono.key_door.keys_block.id": "key_door:keys_block L",
+    "kaonasi.komono.key_door.keys_block.lore.1": "合鍵を作ることができるブロック",
+    "kaonasi.komono.key_door.keys_block.lore.2": "合鍵は信頼できる人に渡そう！",
+
+    "kaonasi.komono.key_door.key.name": "鍵",
+    "kaonasi.komono.key_door.key.id": "key_door:key L",
+    "kaonasi.komono.key_door.key.lore.1": "鍵付きドアの施錠に必要な鍵",
+    "kaonasi.komono.key_door.key.lore.2": "合鍵を作らない限り同じ鍵は存在しない",
+
+    "kaonasi.komono.key_door.keys.name": "合鍵",
+    "kaonasi.komono.key_door.keys.id": "key_door:keys L",
+    "kaonasi.komono.key_door.keys.lore.1": "誰かの鍵の合鍵",
+    "kaonasi.komono.key_door.keys.lore.2": "信頼されている証拠",
+
+
+    "kaonasi.komono.mask.mask.name": "使い捨てマスク",
+    "kaonasi.komono.mask.mask.id": "mask:mask L",
+    "kaonasi.komono.mask.mask.lore.1": "材料はカーペットだけど不織布で作られているはずのマスク",
+    "kaonasi.komono.mask.mask.lore.2": "風邪とかの対策に使える？",
+
+
+    "kaonasi.komono.pocket_portal.nether_portal.name": "ネザーポータルの破片",
+    "kaonasi.komono.pocket_portal.nether_portal.id": "pocket_portal:nether_portal L",
+    "kaonasi.komono.pocket_portal.nether_portal.lore.1": "アイテム化したネザーポータル",
+    "kaonasi.komono.pocket_portal.nether_portal.lore.2": "やったね！統合版に追いついたよ！",
+
+    "kaonasi.komono.pocket_portal.pocket_end_portal.name": "ポケットエンドポータル",
+    "kaonasi.komono.pocket_portal.pocket_end_portal.id": "pocket_portal:pocket_end_portal L",
+    "kaonasi.komono.pocket_portal.pocket_end_portal.lore.1": "エンドと行き来できるアイテム",
+    "kaonasi.komono.pocket_portal.pocket_end_portal.lore.2": "エリトラないと…どうなることか…",
+
+    "kaonasi.komono.pocket_portal.pocket_nether_portal.name": "ポケットネザーポータル",
+    "kaonasi.komono.pocket_portal.pocket_nether_portal.id": "pocket_portal:pocket_nether_portal L",
+    "kaonasi.komono.pocket_portal.pocket_nether_portal.lore.1": "ネザーと行き来できるアイテム",
+    "kaonasi.komono.pocket_portal.pocket_nether_portal.lore.2": "耐火のポーションはあったほうがいいかも",
+
+
+    "kaonasi.komono.reverse_craft.reverse_cartography_table.name": "reverseCartographyTable",
+    "kaonasi.komono.reverse_craft.reverse_cartography_table.id": "reverse_craft:reverse_cartography_table L",
+    "kaonasi.komono.reverse_craft.reverse_cartography_table.lore.1": "色々いじった地図を材料に戻せる製図台",
+    "kaonasi.komono.reverse_craft.reverse_cartography_table.lore.2": "板ガラスがはがせるのは使える...かも？",
+
+    "kaonasi.komono.reverse_craft.reverse_crafting_table.name": "reverseCraftingTable",
+    "kaonasi.komono.reverse_craft.reverse_crafting_table.id": "reverse_craft:reverse_crafting_table L",
+    "kaonasi.komono.reverse_craft.reverse_crafting_table.lore.1": "クラフトしたものを材料に戻せる作業台",
+    "kaonasi.komono.reverse_craft.reverse_crafting_table.lore.2": "間違えてダイヤのブーツ64個作っちゃっても大丈夫！",
+
+    "kaonasi.komono.reverse_craft.reverse_furnace.name": "reverseCraftingFurnace",
+    "kaonasi.komono.reverse_craft.reverse_furnace.id": "reverse_craft:reverse_furnace L",
+    "kaonasi.komono.reverse_craft.reverse_furnace.lore.1": "焼いたものをもとに戻せるかまど",
+    "kaonasi.komono.reverse_craft.reverse_furnace.lore.2": "残念ながら「鉄塊から鉄装備作ってreverseCraftingTableで錬金術！」はできない",
+
+    "kaonasi.komono.reverse_craft.reverse_smithing_table.name": "reverseSmithingTable",
+    "kaonasi.komono.reverse_craft.reverse_smithing_table.id": "reverse_craft:reverse_smithing_table L",
+    "kaonasi.komono.reverse_craft.reverse_smithing_table.lore.1": "間違えてアップグレードしたものをもとに戻せる鍛冶台",
+    "kaonasi.komono.reverse_craft.reverse_smithing_table.lore.2": "間違えてアップグレード とは()",
+
+    "kaonasi.komono.reverse_craft.reverse_stonecutter.name": "reverseStoneCutter",
+    "kaonasi.komono.reverse_craft.reverse_stonecutter.id": "reverse_craft:reverse_stonecutter L",
+    "kaonasi.komono.reverse_craft.reverse_stonecutter.lore.1": "切ったりくり抜いたりしたブロックをもとに戻せる石切台",
+    "kaonasi.komono.reverse_craft.reverse_stonecutter.lore.2": "建材はもとに戻して再利用！",
+
+
+    "kaonasi.komono.weapons.fly_bow.name": "FlyBow",
+    "kaonasi.komono.weapons.fly_bow.id": "weapons:fly_bow L",
+    "kaonasi.komono.weapons.fly_bow.lore.1": "移動に特化するはずだった弓",
+    "kaonasi.komono.weapons.fly_bow.lore.2": "ドM飛行以上の扱いやすさと戦闘にも使える汎用性を持ち合わせている",
+
+    "kaonasi.komono.weapons.multi_bow.name": "MultiBow",
+    "kaonasi.komono.weapons.multi_bow.id": "weapons:multi_bow L",
+    "kaonasi.komono.weapons.multi_bow.lore.1": "拡散が使えるようになった弓",
+    "kaonasi.komono.weapons.multi_bow.lore.2": "矢がおかしな方向に飛んでくこともあるけど…大丈夫？",
+
+    "kaonasi.komono.weapons.sneak_sword.name": "チャージソード",
+    "kaonasi.komono.weapons.sneak_sword.id": "weapons:sneak_sword L",
+    "kaonasi.komono.weapons.sneak_sword.lore.1": "溜め攻撃ができる剣",
+    "kaonasi.komono.weapons.sneak_sword.lore.2": "うまく使えばどんな敵でも一発！",
+
+    "kaonasi.komono.weapons.super_multi_bow.name": "SuperMultiBow",
+    "kaonasi.komono.weapons.super_multi_bow.id": "weapons:super_multi_bow L",
+    "kaonasi.komono.weapons.super_multi_bow.lore.1": "色々と強くなったMultiBow",
+    "kaonasi.komono.weapons.super_multi_bow.lore.2": "物理法則も何もかも無視している気がする",
+
+    "kaonasi.komono.weapons.tnt_bow.name": "TNTBow",
+    "kaonasi.komono.weapons.tnt_bow.id": "weapons:tnt_bow L",
+    "kaonasi.komono.weapons.tnt_bow.lore.1": "破壊に特化した弓",
+    "kaonasi.komono.weapons.tnt_bow.lore.2": "ワールドもパソコンも何もかも破壊しながらTNTを撒き散らしてゆく",
+    "kaonasi.komono.weapons.tnt_bow.setting.1": "遠距離モードに変更しました",
+    "kaonasi.komono.weapons.tnt_bow.setting.2": "上昇モードに変更しました",
+
+    "kaonasi.komono.chair.acacia_bamboo_chair.name": "アカシアの竹の椅子",
+    "kaonasi.komono.chair.acacia_bamboo_chair.id": "chair:acacia_bamboo_chair L",
+    "kaonasi.komono.chair.acacia_bamboo_chair.lore.1": "竹と木でできた椅子",
+    "kaonasi.komono.chair.acacia_bamboo_chair.lore.2": "暑いサバンナの赤で彩られている",
+
+    "kaonasi.komono.chair.birch_bamboo_chair.name": "シラカバの竹の椅子",
+    "kaonasi.komono.chair.birch_bamboo_chair.id": "chair:birch_bamboo_chair L",
+    "kaonasi.komono.chair.birch_bamboo_chair.lore.1": "竹と木でできた椅子",
+    "kaonasi.komono.chair.birch_bamboo_chair.lore.2": "これを最初に作る人もいるかも？",
+
+    "kaonasi.komono.chair.crimson_bamboo_chair.name": "真紅の竹の椅子",
+    "kaonasi.komono.chair.crimson_bamboo_chair.id": "chair:crimson_bamboo_chair L",
+    "kaonasi.komono.chair.crimson_bamboo_chair.lore.1": "竹と木でできた椅子",
+    "kaonasi.komono.chair.crimson_bamboo_chair.lore.2": "ものすごく...暑い色をしている...",
+
+    "kaonasi.komono.chair.dark_oak_bamboo_chair.name": "ダークオークの竹の椅子",
+    "kaonasi.komono.chair.dark_oak_bamboo_chair.id": "chair:dark_oak_bamboo_chair L",
+    "kaonasi.komono.chair.dark_oak_bamboo_chair.lore.1": "竹と木でできた椅子",
+    "kaonasi.komono.chair.dark_oak_bamboo_chair.lore.2": "ダークオーク単語数が違うの、どうかと思う",
+
+    "kaonasi.komono.chair.jungle_bamboo_chair.name": "ジャングルの竹の椅子",
+    "kaonasi.komono.chair.jungle_bamboo_chair.id": "chair:jungle_bamboo_chair L",
+    "kaonasi.komono.chair.jungle_bamboo_chair.lore.1": "竹と木でできた椅子",
+    "kaonasi.komono.chair.jungle_bamboo_chair.lore.2": "この椅子を一番最初に作る人は...ほとんどいないと思う",
+
+    "kaonasi.komono.chair.oak_bamboo_chair.name": "オークの竹の椅子",
+    "kaonasi.komono.chair.oak_bamboo_chair.id": "chair:oak_bamboo_chair L",
+    "kaonasi.komono.chair.oak_bamboo_chair.lore.1": "竹と木でできた椅子",
+    "kaonasi.komono.chair.oak_bamboo_chair.lore.2": "一番一般的な木材...かな？",
+
+    "kaonasi.komono.chair.spruce_bamboo_chair.name": "トウヒの竹の椅子",
+    "kaonasi.komono.chair.spruce_bamboo_chair.id": "chair:spruce_bamboo_chair L",
+    "kaonasi.komono.chair.spruce_bamboo_chair.lore.1": "竹と木でできた椅子",
+    "kaonasi.komono.chair.spruce_bamboo_chair.lore.2": "説明文考えんのめんどくなってきた（）",
+
+    "kaonasi.komono.chair.warped_bamboo_chair.name": "歪んだ竹の椅子",
+    "kaonasi.komono.chair.warped_bamboo_chair.id": "chair:warped_bamboo_chair L",
+    "kaonasi.komono.chair.warped_bamboo_chair.lore.1": "竹と木でできた椅子",
+    "kaonasi.komono.chair.warped_bamboo_chair.lore.2": "禍々しい色をしている",
+
+    "kaonasi.komono.industry.coal_nugget.name": "石炭のナゲット",
+    "kaonasi.komono.industry.coal_nugget.id": "industry:coal_nugget L",
+    "kaonasi.komono.industry.coal_nugget.lore.1": "鉱石のナゲット",
+    "kaonasi.komono.industry.coal_nugget.lore.2": "間違いなく洞窟探検したほうが早い",
+
+    "kaonasi.komono.industry.lapis_nugget.name": "ラピスラズリのナゲット",
+    "kaonasi.komono.industry.lapis_nugget.id": "industry:lapis_nugget L",
+    "kaonasi.komono.industry.lapis_nugget.lore.1": "鉱石のナゲット",
+    "kaonasi.komono.industry.lapis_nugget.lore.2": "どちらかといえばハズレ枠だと思う",
+
+    "kaonasi.komono.industry.diamond_nugget.name": "ダイヤモンドのナゲット",
+    "kaonasi.komono.industry.diamond_nugget.id": "industry:diamond_nugget L",
+    "kaonasi.komono.industry.diamond_nugget.lore.1": "鉱石のナゲット",
+    "kaonasi.komono.industry.diamond_nugget.lore.2": "鉱石抽出機が作れるレベルまで来たらもういらないと思う",
+
+    "kaonasi.komono.industry.emerald_nugget.name": "エメラルドのナゲット",
+    "kaonasi.komono.industry.emerald_nugget.id": "industry:emerald_nugget L",
+    "kaonasi.komono.industry.emerald_nugget.lore.1": "鉱石のナゲット",
+    "kaonasi.komono.industry.emerald_nugget.lore.2": "運ゲーするより交易したほうが絶対良い",
+
+    "kaonasi.komono.industry.redstone_nugget.name": "レッドストーンのナゲット",
+    "kaonasi.komono.industry.redstone_nugget.id": "industry:redstone_nugget L",
+    "kaonasi.komono.industry.redstone_nugget.lore.1": "鉱石のナゲット",
+    "kaonasi.komono.industry.redstone_nugget.lore.2": "6bitコンピューターでも作らない限り大ハズレ枠だと思う",
+
+    "kaonasi.komono.industry.copper_nugget.name": "銅のナゲット",
+    "kaonasi.komono.industry.copper_nugget.id": "industry:copper_nugget L",
+    "kaonasi.komono.industry.copper_nugget.lore.1": "鉱石のナゲット",
+    "kaonasi.komono.industry.copper_nugget.lore.2": "圧倒的な供給過多",
+
+    "kaonasi.komono.industry.ruby_nugget.name": "ルビーのナゲット",
+    "kaonasi.komono.industry.ruby_nugget.id": "industry:ruby_nugget L",
+    "kaonasi.komono.industry.ruby_nugget.lore.1": "鉱石のナゲット",
+    "kaonasi.komono.industry.ruby_nugget.lore.2": "ここでしか手に入らない鉱石（使うかどうかは知らない）",
+
+    "kaonasi.komono.industry.piglin_head.name": "ピグリンの頭",
+    "kaonasi.komono.industry.piglin_head.id": "industry:piglin_head L",
+    "kaonasi.komono.industry.piglin_head.lore.1": "ピグリンがくれる頭",
+    "kaonasi.komono.industry.piglin_head.lore.2": "仲間の頭を交易するピグリン...恐ろしや",
+
+    "kaonasi.komono.industry.beltconveyer.name": "ベルトコンベア",
+    "kaonasi.komono.industry.beltconveyer.id": "industry:beltconveyer L",
+    "kaonasi.komono.industry.beltconveyer.lore.1": "アイテムとかを運べるベルトコンベア",
+    "kaonasi.komono.industry.beltconveyer.lore.2": "経験値トラップとかに使えるかも？",
+
+    "kaonasi.komono.industry.checker.name": "工業系詳細検出機",
+    "kaonasi.komono.industry.checker.id": "industry:checker L",
+    "kaonasi.komono.industry.checker.lore.1": "さまざまな装置の消費電力などを調べることが出来る",
+    "kaonasi.komono.industry.checker.lore.2": "それ以上でもそれ以下でもない",
+    "kaonasi.komono.industry.checker.KE": "現在の電力は%sKEです",
+    "kaonasi.komono.industry.checker.pump.1": "<このポンプの詳細>",
+    "kaonasi.komono.industry.checker.pump.2": "消費電力:1ブロックの水につき10KE",
+    "kaonasi.komono.industry.checker.pump.3": "今の内部水量:%s杯",
+    "kaonasi.komono.industry.checker.pump_lava.1": "<このポンプの詳細>",
+    "kaonasi.komono.industry.checker.pump_lava.2": "消費電力:1ブロックの溶岩につき10KE",
+    "kaonasi.komono.industry.checker.pump_lava.3": "今の内部溶岩量:%s杯",
+    "kaonasi.komono.industry.checker.miner.1": "<この直下堀り機の詳細>",
+    "kaonasi.komono.industry.checker.miner.2": "消費電力:1ブロックにつき20KE",
+    "kaonasi.komono.industry.checker.chest.1": "<この共有チェストの詳細>",
+    "kaonasi.komono.industry.checker.chest.2": "消費電力:0.05秒ごとに1KE",
+    "kaonasi.komono.industry.checker.daylight.1": "<この太陽光発電機の詳細>",
+    "kaonasi.komono.industry.checker.daylight.2": "発電電力:5秒ごとに10KE(昼間のみ)",
+    "kaonasi.komono.industry.checker.daylight_x8.1": "<この太陽光発電機の詳細>",
+    "kaonasi.komono.industry.checker.daylight_x8.2": "発電電力:2.5秒ごとに80KE(昼間のみ)",
+    "kaonasi.komono.industry.checker.cobbleore.1": "<この鉱石抽出機の詳細>",
+    "kaonasi.komono.industry.checker.cobbleore.2": "消費電力:丸石1つにつき50KE",
+
+    "kaonasi.komono.industry.everyone_chest.name": "共有チェスト",
+    "kaonasi.komono.industry.everyone_chest.id": "industry:everyone_chest L",
+    "kaonasi.komono.industry.everyone_chest.lore.1": "どこからでも入れたり出したり出来るチェスト",
+    "kaonasi.komono.industry.everyone_chest.lore.2": "エンダーチェストの全員が同じ内容を見れるバージョン",
+
+    "kaonasi.komono.industry.wooden_gear.name": "木の歯車",
+    "kaonasi.komono.industry.wooden_gear.id": "industry:wooden_gear L",
+    "kaonasi.komono.industry.wooden_gear.lore.1": "ただの中間素材",
+    "kaonasi.komono.industry.wooden_gear.lore.2": "工業化への第一歩",
+
+    "kaonasi.komono.industry.stone_gear.name": "石の歯車",
+    "kaonasi.komono.industry.stone_gear.id": "industry:stone_gear L",
+    "kaonasi.komono.industry.stone_gear.lore.1": "ただの中間素材",
+    "kaonasi.komono.industry.stone_gear.lore.2": "名前は石だけど材料は丸石になっている",
+
+    "kaonasi.komono.industry.iron_gear.name": "鉄の歯車",
+    "kaonasi.komono.industry.iron_gear.id": "industry:iron_gear L",
+    "kaonasi.komono.industry.iron_gear.lore.1": "ただの中間素材",
+    "kaonasi.komono.industry.iron_gear.lore.2": "電気をよく通すと思う",
+
+    "kaonasi.komono.industry.gold_gear.name": "金の歯車",
+    "kaonasi.komono.industry.gold_gear.id": "industry:gold_gear L",
+    "kaonasi.komono.industry.gold_gear.lore.1": "ただの中間素材",
+    "kaonasi.komono.industry.gold_gear.lore.2": "精密機械で使われそう",
+
+    "kaonasi.komono.industry.clock.name": "デジタル時計",
+    "kaonasi.komono.industry.clock.id": "industry:clock L",
+    "kaonasi.komono.industry.clock.lore.1": "正確な時間がわかる時計",
+    "kaonasi.komono.industry.clock.lore.2": "どうみてもアナログ時計に見えるけどデジタル時計です",
+
+    "kaonasi.komono.industry.ruby.name": "ルビー",
+    "kaonasi.komono.industry.ruby.id": "industry:ruby L",
+    "kaonasi.komono.industry.ruby.lore.1": "幻だったルビー",
+    "kaonasi.komono.industry.ruby.lore.2": "エメラルドとして使うことも出来る",
+
+    "kaonasi.komono.industry.ruby_block.name": "ルビーブロック",
+    "kaonasi.komono.industry.ruby_block.id": "industry:ruby_block L",
+    "kaonasi.komono.industry.ruby_block.lore.1": "存在しないはずだったルビーのブロック",
+    "kaonasi.komono.industry.ruby_block.lore.2": "ビーコンの土台として使うことも出来る",
+
+    "kaonasi.komono.industry.cobbleore.name": "鉱石抽出機",
+    "kaonasi.komono.industry.cobbleore.id": "industry:cobbleore L",
+    "kaonasi.komono.industry.cobbleore.lore.1": "丸石から鉱石を抽出できる装置",
+    "kaonasi.komono.industry.cobbleore.lore.2": "運ゲーだが神装置かもしれない",
+
+    "kaonasi.komono.industry.daylight.name": "太陽光発電機",
+    "kaonasi.komono.industry.daylight.id": "industry:daylight L",
+    "kaonasi.komono.industry.daylight.lore.1": "太陽光で発電する発電機",
+    "kaonasi.komono.industry.daylight.lore.2": "欠点も多いが勝手に発電してくれるスグレモノ",
+
+    "kaonasi.komono.industry.daylight_x8.name": "8倍太陽光発電機",
+    "kaonasi.komono.industry.daylight_x8.id": "industry:daylight_x8 L",
+    "kaonasi.komono.industry.daylight_x8.lore.1": "太陽光発電機を8つ集めたもの",
+    "kaonasi.komono.industry.daylight_x8.lore.2": "割と効率いいんじゃないかな",
+
+    "kaonasi.komono.industry.jetpack.name": "ジェットパック",
+    "kaonasi.komono.industry.jetpack.id": "industry:jetpack L",
+    "kaonasi.komono.industry.jetpack.lore.1": "エリトラとは似て非なるもの",
+    "kaonasi.komono.industry.jetpack.lore.2": "防御力はダイヤと同じでエンチャントで来て壊れなくてネザライトに出来るスグレモノ",
+
+    "kaonasi.komono.industry.miner.name": "直下堀り機",
+    "kaonasi.komono.industry.miner.id": "industry:miner L",
+    "kaonasi.komono.industry.miner.lore.1": "ひたすら直下掘りしてくれる装置",
+    "kaonasi.komono.industry.miner.lore.2": "たくさん置けば露天掘りも楽ちん？",
+
+    "kaonasi.komono.industry.lightning_rod.name": "雷発電機",
+    "kaonasi.komono.industry.lightning_rod.id": "industry:lightning_rod L",
+    "kaonasi.komono.industry.lightning_rod.lore.1": "雷が落ちたときに発電してくれる装置",
+    "kaonasi.komono.industry.lightning_rod.lore.2": "避雷針にくっつけてしか使えないがとんでもない電力が手に入る",
+
+    "kaonasi.komono.industry.pump.name": "ポンプ【水】",
+    "kaonasi.komono.industry.pump.id": "industry:pump L",
+    "kaonasi.komono.industry.pump.lore.1": "水源を全て吸い取ってくれる装置",
+    "kaonasi.komono.industry.pump.lore.2": "無限水源も潰してくれるけど海に置いたら大変なことになる",
+
+    "kaonasi.komono.industry.pump_lava.name": "ポンプ【溶岩】",
+    "kaonasi.komono.industry.pump_lava.id": "industry:pump_lava L",
+    "kaonasi.komono.industry.pump_lava.lore.1": "溶岩を全て吸い取ってくれる装置",
+    "kaonasi.komono.industry.pump_lava.lore.2": "なんだかんだものすごく便利"
+
+}
+
+
+

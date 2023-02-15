@@ -1,0 +1,13 @@
+
+{
+	"parent": "minecraft:block/cube",
+	"textures": {
+		"north": "biwa_blocks/bucket",
+		"south": "biwa_blocks/bucket",
+		"west": "biwa_blocks/bucket",
+		"east": "biwa_blocks/bucket",
+		"up": "biwa_blocks/water_still",
+		"down": "biwa_blocks/machine",
+		"particle": "biwa_blocks/machine"
+	}
+}

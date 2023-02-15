@@ -1,0 +1,10 @@
+{
+	"parent": "biwa_block/daylight2",
+	"display": {
+		
+		"head": {
+			"translation": [0, -56, 0],
+			"scale": [1.7, 1.7, 1.7]
+		}
+	}
+}

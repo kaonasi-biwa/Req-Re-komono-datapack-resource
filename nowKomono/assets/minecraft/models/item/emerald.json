@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/emerald"
+  },
+  "overrides": [
+      
+      {
+          "predicate": {
+            "custom_model_data": 61168
+          },
+          "model": "biwa_item/ruby2"
+      }
+  ]
+}

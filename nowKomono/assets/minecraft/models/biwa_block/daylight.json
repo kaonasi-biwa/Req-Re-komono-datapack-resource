@@ -1,0 +1,12 @@
+{
+	"parent": "minecraft:block/cube",
+	"textures": {
+	  "particle": "biwa_blocks/machine",
+	  "north": "biwa_blocks/machine",
+	  "south": "biwa_blocks/machine",
+	  "east": "biwa_blocks/machine",
+	  "west": "biwa_blocks/machine",
+	  "up": "biwa_blocks/daylight_detector_top",
+	  "down": "biwa_blocks/machine"
+	}
+  }

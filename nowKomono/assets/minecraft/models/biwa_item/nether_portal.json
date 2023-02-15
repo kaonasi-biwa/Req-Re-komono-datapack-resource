@@ -1,0 +1,42 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "block/nether_portal",
+		"portal": "block/nether_portal"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 6],
+			"to": [16, 16, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#portal"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#portal"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#portal"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#portal"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#portal"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#portal"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_righthand": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"ground": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"gui": {
+			"rotation": [17, 17, 0],
+			"scale": [0.3, 0.3, 0.3]
+		}
+	}
+}

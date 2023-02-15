@@ -1,0 +1,38 @@
+{
+  "parent": "item/handheld_rod",
+  "textures": {
+    "layer0": "item/carrot_on_a_stick"
+  },
+  "overrides": [
+    {
+      "predicate":{
+        "custom_model_data": 26
+      },
+      "model": "biwa_item/end"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 389
+      },
+      "model": "biwa_item/mask"
+    },
+    {
+      "predicate":{
+        "custom_model_data": 31037
+      },
+      "model": "biwa_item/clock"
+    },
+    {
+      "predicate":{
+        "custom_model_data": 201202
+      },
+      "model": "biwa_item/nether"
+    },
+    {
+      "predicate":{
+        "custom_model_data": 300000
+      },
+      "model": "biwa_item/check"
+    }
+  ]
+}

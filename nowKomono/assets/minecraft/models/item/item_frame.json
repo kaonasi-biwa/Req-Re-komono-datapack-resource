@@ -1,0 +1,116 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/item_frame"
+  },
+  "overrides": [
+    {
+      "predicate":{
+        "custom_model_data": 63
+      },
+      "model": "ibiwa_item/reverse_craft/reverse_crafting_table"
+    },
+    {
+      "predicate":{
+        "custom_model_data": 64
+      },
+      "model": "ibiwa_item/reverse_craft/reverse_furnace"
+    },
+    {
+      "predicate":{
+        "custom_model_data": 65
+      },
+      "model": "ibiwa_item/reverse_craft/reverse_smithing_table"
+    },
+    {
+      "predicate":{
+        "custom_model_data": 66
+      },
+      "model": "ibiwa_item/reverse_craft/reverse_stonecutter"
+    },
+    {
+      "predicate":{
+        "custom_model_data": 67
+      },
+      "model": "ibiwa_item/reverse_craft/reverse_cartography_table"
+    },
+    {
+      "predicate":{
+        "custom_model_data": 68
+      },
+      "model": "ibiwa_item/industry/ruby_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 552
+      },
+      "model": "ibiwa_item/craft/kaonasi_crafting_table"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 699
+      },
+      "model": "ibiwa_item/key_door/keys_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6116
+      },
+      "model": "ibiwa_item/industry/pump"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61162
+      },
+      "model": "ibiwa_item/industry/daylight"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61163
+      },
+      "model": "ibiwa_item/industry/miner"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61164
+      },
+      "model": "ibiwa_item/industry/daylight_x8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61165
+      },
+      "model": "ibiwa_item/industry/everyone_chest"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61166
+      },
+      "model": "ibiwa_item/industry/cobbleore"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 61167
+      },
+      "model": "ibiwa_item/industry/pump_lava"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 292292
+      },
+      "model": "ibiwa_item/pocket_portal/nether_portal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 919112
+      },
+      "model": "ibiwa_item/industry/piglin_head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11720451
+      },
+      "model": "ibiwa_item/industry/lightning_rod"
+    }
+  ]
+}

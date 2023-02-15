@@ -1,0 +1,40 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:biwa_recipes/recipe_base.png",
+            "ascent": 1,
+            "height": 53,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:biwa_recipes/air.png",
+            "ascent": 1,
+            "height": 10,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:biwa_recipes/crafting_table.png",
+            "ascent": 1,
+            "height": 16,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/gold_ingot.png",
+            "ascent": 1,
+            "height": 10,
+            "chars": [
+                "\uE003"
+            ]
+        }
+    ]
+}
